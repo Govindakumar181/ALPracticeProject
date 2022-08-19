@@ -1,0 +1,24 @@
+{
+  "id": "aba79152-b7a5-49f4-9485-b5eafe5b01ab",
+  "name": "ALPracticeProject",
+  "publisher": "Govinda Kumar 1",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "runtime": "7.0"
+}
