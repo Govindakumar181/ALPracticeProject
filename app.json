@@ -20,5 +20,8 @@
       "to": 50149
     }
   ],
+  "features": [
+    "TranslationFile"
+  ],
   "runtime": "7.0"
 }
